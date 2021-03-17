@@ -2,4 +2,4 @@
 
 Live [Preview](https://covid19-tracker-mr62.web.app/)
 
-[API Credits T](https://covid19.mathdro.id/api/)
+[API Credits To](https://covid19.mathdro.id/api/)
