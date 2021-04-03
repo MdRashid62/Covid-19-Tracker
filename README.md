@@ -1,4 +1,4 @@
-# React Covid-19 Tracker A
+# React Covid-19 Tracker Ap
 
 Live [Preview](https://covid19-tracker-mr62.web.app/)
 
