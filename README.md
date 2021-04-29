@@ -1,4 +1,4 @@
-# React Covid-19 Tracker Applicati
+# React Covid-19 Tracker Applicatio
 
 Live [Preview](https://covid19-tracker-mr62.web.app/)
 
