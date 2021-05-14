@@ -1,4 +1,4 @@
-# React Covid-19 Tracker Application 00000000000
+# React Covid-19 Tracker Application 0000000000
 
 Live [Preview](https://covid19-tracker-mr62.web.app/)
 
